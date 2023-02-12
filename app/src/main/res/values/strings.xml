@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contacts Kotlin</string>
+    <string name="open">open</string>
+    <string name="contact_name">Contact name</string>
+    <string name="contact_phone">Contact phone</string>
+    <string name="todo">TODO</string>
+</resources>
